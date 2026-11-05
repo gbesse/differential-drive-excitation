@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Vérifier si des trajets identifient les paramètres des roues', 'en': 'Check whether trajectories identify wheel parameters', 'es': 'Comprobar si trayectorias identifican parámetros de ruedas'}

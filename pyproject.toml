@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "differential-drive-excitation"
+version = "0.1.0a1"
+description = "FR: Vérifier si des trajets identifient les paramètres des roues | EN: Check whether trajectories identify wheel parameters | ES: Comprobar si trayectorias identifican parámetros de ruedas"
+requires-python = ">=3.11"
+license = "MIT"
+
+[project.scripts]
+differential-drive-excitation = "differential_drive_excitation.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["differential_drive_excitation*"]

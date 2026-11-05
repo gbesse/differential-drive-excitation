@@ -1,0 +1,17 @@
+{
+  "track_width": 0.5,
+  "segments": [
+    {
+      "left_rotation": 1,
+      "right_rotation": 1,
+      "distance": 0.1,
+      "yaw": 0
+    },
+    {
+      "left_rotation": -1,
+      "right_rotation": 1,
+      "distance": 0,
+      "yaw": 0.4
+    }
+  ]
+}
